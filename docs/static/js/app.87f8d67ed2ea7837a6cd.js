@@ -127,7 +127,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
   },
   data() {
     return {
-      interval: 40,
+      interval: 1,
       currentStyle: '',
       enableHtml: false,
       fullStyle: [`/*
@@ -755,4 +755,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[12]);
-//# sourceMappingURL=app.9f36e75165e926eddeb6.js.map
+//# sourceMappingURL=app.87f8d67ed2ea7837a6cd.js.map
