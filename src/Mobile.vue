@@ -24,10 +24,7 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘
-* 你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* 大家好，我是饭饭
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -128,36 +125,29 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `Qingsong Fan
 ----
 
-资深前端工程师，资深前端讲师
-现在在 [饥人谷](http://jirengu.com) 教前端课程。
+资深前端工程师
 
 技能
 ----
 
 * 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* WebServer运维
+* Node.js开发
+* Python开发
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. [中兴通讯](http://www.zte.com.cn)
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
-
-> 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+* [GitHub](https://github.com/fanqingsong)
+* [我的文章](https://www.cnblogs.com/lightsong/)
 
 `
       }
