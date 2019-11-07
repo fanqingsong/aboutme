@@ -227,7 +227,7 @@ html{
 ----
 
 * 前端开发
-* WebServer运维
+* 运维开发
 * Node.js开发
 * Python开发
 
@@ -755,4 +755,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[12]);
-//# sourceMappingURL=app.87f8d67ed2ea7837a6cd.js.map
+//# sourceMappingURL=app.25e0a75cb02dfc3b7d25.js.map
