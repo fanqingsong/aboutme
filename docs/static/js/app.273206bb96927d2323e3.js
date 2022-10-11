@@ -14,11 +14,11 @@ webpackJsonp([0],[
 /* styles */
 __webpack_require__(14)
 
-var Component = __webpack_require__(1)(
+var Component = __webpack_require__(0)(
   /* script */
   __webpack_require__(10),
   /* template */
-  __webpack_require__(23),
+  __webpack_require__(20),
   /* scopeId */
   "data-v-46f67600",
   /* cssModules */
@@ -36,11 +36,11 @@ module.exports = Component.exports
 /* styles */
 __webpack_require__(15)
 
-var Component = __webpack_require__(1)(
+var Component = __webpack_require__(0)(
   /* script */
   __webpack_require__(11),
   /* template */
-  __webpack_require__(24),
+  __webpack_require__(21),
   /* scopeId */
   "data-v-6376be30",
   /* cssModules */
@@ -58,11 +58,11 @@ module.exports = Component.exports
 /* styles */
 __webpack_require__(16)
 
-var Component = __webpack_require__(1)(
+var Component = __webpack_require__(0)(
   /* script */
   __webpack_require__(8),
   /* template */
-  __webpack_require__(25),
+  __webpack_require__(22),
   /* scopeId */
   "data-v-6f0b33e4",
   /* cssModules */
@@ -80,11 +80,11 @@ module.exports = Component.exports
 /* styles */
 __webpack_require__(13)
 
-var Component = __webpack_require__(1)(
+var Component = __webpack_require__(0)(
   /* script */
   __webpack_require__(9),
   /* template */
-  __webpack_require__(22),
+  __webpack_require__(19),
   /* scopeId */
   "data-v-2b8d2445",
   /* cssModules */
@@ -452,20 +452,24 @@ html{
       fullMarkdown: `Qingsong Fan
 ----
 
-资深前端工程师
+软件开发工程师
 
 技能
 ----
 
-* 前端开发
-* WebServer运维
-* Node.js开发
-* Python开发
+* Frontend
+* Python
+* Node.js
+* Jenkins
+* Docker
+* Automation
 
 工作经历
 ----
 
-1. [中兴通讯](http://www.zte.com.cn)
+1. [zte](http://www.zte.com.cn)
+2. [Ericsson](http://www.ericsson.com)
+
 
 链接
 ----
@@ -667,10 +671,7 @@ new __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */]({
 /***/ }),
 /* 17 */,
 /* 18 */,
-/* 19 */,
-/* 20 */,
-/* 21 */,
-/* 22 */
+/* 19 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -693,7 +694,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 23 */
+/* 20 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -711,7 +712,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 24 */
+/* 21 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -731,7 +732,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 25 */
+/* 22 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -755,4 +756,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[12]);
-//# sourceMappingURL=app.25e0a75cb02dfc3b7d25.js.map
+//# sourceMappingURL=app.273206bb96927d2323e3.js.map
