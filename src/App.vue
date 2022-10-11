@@ -116,20 +116,24 @@ html{
         fullMarkdown: `Qingsong Fan
 ----
 
-资深前端工程师
+软件开发工程师
 
 技能
 ----
 
-* 前端开发
-* 运维开发
-* Node.js开发
-* Python开发
+* Frontend
+* Python
+* Node.js
+* Jenkins
+* Docker
+* Automation
 
 工作经历
 ----
 
-1. [中兴通讯](http://www.zte.com.cn)
+1. [zte](http://www.zte.com.cn)
+2. [Ericsson](http://www.ericsson.com)
+
 
 链接
 ----
